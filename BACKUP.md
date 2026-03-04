@@ -11,6 +11,7 @@ This repository stores only hard-to-recover OpenClaw data.
 - `TOOLS.md`
 - `AGENTS.md`
 - `HEARTBEAT.md` (when customized)
+- `skills-custom/**` (manually added/created skills)
 
 ## Excluded
 - `BOOTSTRAP.md` (one-time onboarding)

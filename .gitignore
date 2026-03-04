@@ -19,3 +19,7 @@
 
 # Keep backup policy docs
 !BACKUP.md
+
+# Keep user-created skills
+!skills-custom/
+!skills-custom/**
