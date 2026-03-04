@@ -1,0 +1,21 @@
+# Default: ignore everything
+*
+
+# Keep gitignore itself
+!.gitignore
+
+# Keep core identity/context files (hard to restore)
+!AGENTS.md
+!SOUL.md
+!USER.md
+!IDENTITY.md
+!TOOLS.md
+!HEARTBEAT.md
+!MEMORY.md
+
+# Keep structured memory
+!memory/
+!memory/**
+
+# Keep backup policy docs
+!BACKUP.md
